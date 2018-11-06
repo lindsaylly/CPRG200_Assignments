@@ -1,0 +1,10 @@
+C:\Users\699135\source\repos\Exercise\Lingyan_Li_CPRG200_Lab3\Lingyan_Li_CPRG200_Lab3\bin\Debug\Lingyan_Li_CPRG200_Lab3.exe.config
+C:\Users\699135\source\repos\Exercise\Lingyan_Li_CPRG200_Lab3\Lingyan_Li_CPRG200_Lab3\bin\Debug\Lingyan_Li_CPRG200_Lab3.exe
+C:\Users\699135\source\repos\Exercise\Lingyan_Li_CPRG200_Lab3\Lingyan_Li_CPRG200_Lab3\bin\Debug\Lingyan_Li_CPRG200_Lab3.pdb
+C:\Users\699135\source\repos\Exercise\Lingyan_Li_CPRG200_Lab3\Lingyan_Li_CPRG200_Lab3\obj\Debug\Lingyan_Li_CPRG200_Lab3.csprojAssemblyReference.cache
+C:\Users\699135\source\repos\Exercise\Lingyan_Li_CPRG200_Lab3\Lingyan_Li_CPRG200_Lab3\obj\Debug\Lingyan_Li_CPRG200_Lab3.Form1.resources
+C:\Users\699135\source\repos\Exercise\Lingyan_Li_CPRG200_Lab3\Lingyan_Li_CPRG200_Lab3\obj\Debug\Lingyan_Li_CPRG200_Lab3.Properties.Resources.resources
+C:\Users\699135\source\repos\Exercise\Lingyan_Li_CPRG200_Lab3\Lingyan_Li_CPRG200_Lab3\obj\Debug\Lingyan_Li_CPRG200_Lab3.csproj.GenerateResource.cache
+C:\Users\699135\source\repos\Exercise\Lingyan_Li_CPRG200_Lab3\Lingyan_Li_CPRG200_Lab3\obj\Debug\Lingyan_Li_CPRG200_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\699135\source\repos\Exercise\Lingyan_Li_CPRG200_Lab3\Lingyan_Li_CPRG200_Lab3\obj\Debug\Lingyan_Li_CPRG200_Lab3.exe
+C:\Users\699135\source\repos\Exercise\Lingyan_Li_CPRG200_Lab3\Lingyan_Li_CPRG200_Lab3\obj\Debug\Lingyan_Li_CPRG200_Lab3.pdb

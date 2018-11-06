@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lingyan_Li_CPRG200_Lab4", "Lingyan_Li_CPRG200_Lab4\Lingyan_Li_CPRG200_Lab4.csproj", "{14E7EFBF-4A6C-4C92-8657-A6F21DF371B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderDemo", "OrderDemo\OrderDemo.csproj", "{FE3886AE-5E0B-4D04-8F1F-8940EA957D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14E7EFBF-4A6C-4C92-8657-A6F21DF371B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E7EFBF-4A6C-4C92-8657-A6F21DF371B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E7EFBF-4A6C-4C92-8657-A6F21DF371B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E7EFBF-4A6C-4C92-8657-A6F21DF371B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3886AE-5E0B-4D04-8F1F-8940EA957D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3886AE-5E0B-4D04-8F1F-8940EA957D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3886AE-5E0B-4D04-8F1F-8940EA957D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3886AE-5E0B-4D04-8F1F-8940EA957D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21D11C72-CA43-4167-9CD4-50FC6588BC03}
+	EndGlobalSection
+EndGlobal

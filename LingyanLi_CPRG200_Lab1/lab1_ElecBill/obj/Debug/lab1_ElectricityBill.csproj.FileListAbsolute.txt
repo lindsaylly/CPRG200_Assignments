@@ -1,0 +1,7 @@
+C:\Users\699135\source\repos\Exercise\LingyanLi_CPRG200_Lab1\lab1_ElecBill\obj\Debug\lab1_ElecticityBill.Form1.resources
+C:\Users\699135\source\repos\Exercise\LingyanLi_CPRG200_Lab1\lab1_ElecBill\obj\Debug\lab1_ElecBill.Properties.Resources.resources
+C:\Users\699135\source\repos\Exercise\LingyanLi_CPRG200_Lab1\lab1_ElecBill\obj\Debug\lab1_ElectricityBill.csproj.GenerateResource.cache
+C:\Users\699135\source\repos\Exercise\LingyanLi_CPRG200_Lab1\lab1_ElecBill\obj\Debug\lab1_ElectricityBill.csproj.CoreCompileInputs.cache
+C:\Users\699135\source\repos\Exercise\LingyanLi_CPRG200_Lab1\lab1_ElecBill\obj\Debug\lab1_ElecBill.exe
+C:\Users\699135\source\repos\Exercise\LingyanLi_CPRG200_Lab1\lab1_ElecBill\obj\Debug\lab1_ElecBill.pdb
+C:\Users\699135\source\repos\Exercise\LingyanLi_CPRG200_Lab1\lab1_ElecBill\obj\Debug\lab1_ElectricityBill.Form1.resources

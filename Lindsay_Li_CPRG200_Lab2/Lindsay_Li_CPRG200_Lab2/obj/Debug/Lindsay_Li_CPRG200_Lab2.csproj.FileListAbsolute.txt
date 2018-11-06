@@ -1,0 +1,10 @@
+C:\Users\699135\source\repos\Exercise\Lindsay_Li_CPRG200_Lab2\Lindsay_Li_CPRG200_Lab2\bin\Debug\Lindsay_Li_CPRG200_Lab2.exe.config
+C:\Users\699135\source\repos\Exercise\Lindsay_Li_CPRG200_Lab2\Lindsay_Li_CPRG200_Lab2\bin\Debug\Lindsay_Li_CPRG200_Lab2.exe
+C:\Users\699135\source\repos\Exercise\Lindsay_Li_CPRG200_Lab2\Lindsay_Li_CPRG200_Lab2\bin\Debug\Lindsay_Li_CPRG200_Lab2.pdb
+C:\Users\699135\source\repos\Exercise\Lindsay_Li_CPRG200_Lab2\Lindsay_Li_CPRG200_Lab2\obj\Debug\Lindsay_Li_CPRG200_Lab2.csprojAssemblyReference.cache
+C:\Users\699135\source\repos\Exercise\Lindsay_Li_CPRG200_Lab2\Lindsay_Li_CPRG200_Lab2\obj\Debug\Lindsay_Li_CPRG200_Lab2.Properties.Resources.resources
+C:\Users\699135\source\repos\Exercise\Lindsay_Li_CPRG200_Lab2\Lindsay_Li_CPRG200_Lab2\obj\Debug\Lindsay_Li_CPRG200_Lab2.csproj.GenerateResource.cache
+C:\Users\699135\source\repos\Exercise\Lindsay_Li_CPRG200_Lab2\Lindsay_Li_CPRG200_Lab2\obj\Debug\Lindsay_Li_CPRG200_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\699135\source\repos\Exercise\Lindsay_Li_CPRG200_Lab2\Lindsay_Li_CPRG200_Lab2\obj\Debug\Lindsay_Li_CPRG200_Lab2.exe
+C:\Users\699135\source\repos\Exercise\Lindsay_Li_CPRG200_Lab2\Lindsay_Li_CPRG200_Lab2\obj\Debug\Lindsay_Li_CPRG200_Lab2.pdb
+C:\Users\699135\source\repos\Exercise\Lindsay_Li_CPRG200_Lab2\Lindsay_Li_CPRG200_Lab2\obj\Debug\Lindsay_Li_CPRG200_Lab2.frmCustomers.resources
